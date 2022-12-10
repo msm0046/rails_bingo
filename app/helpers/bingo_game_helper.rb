@@ -1,0 +1,2 @@
+module BingoGameHelper
+end
